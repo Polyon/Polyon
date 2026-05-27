@@ -40,9 +40,9 @@ I'm a passionate **Software Developer** with expertise in building scalable, rob
 
 ## 📊 GitHub Statistics
 
-![PolyonFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyonFirst&show_icons=true&theme=radical)
+![PolyonFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polyon&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyonFirst&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyon&layout=compact&theme=radical)
 
 ---
 
